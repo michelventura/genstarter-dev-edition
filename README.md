@@ -6,6 +6,8 @@ To see the entire lab series which built this child theme, go to: [Let’s Build
 
 Note:  This is a starter theme meant to be extended and customized.  It is based loosely on the Genesis Sample Child Theme.
 
+>This project is still in development.  Do NOT use it yet as it's not complete or ready. Cheers.
+
 ## Features
 
 This theme includes the following features:
